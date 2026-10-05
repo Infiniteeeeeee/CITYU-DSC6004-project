@@ -6,6 +6,7 @@ demand and predict peak charging events from the
 
 - **Full report:** [`report.md`](report.md)
 - **Team handoff / working log:** [`PROJECT_LOG.md`](PROJECT_LOG.md)
+- **中文版 README:** [`README_zh.md`](README_zh.md)
 
 ## Research questions
 
