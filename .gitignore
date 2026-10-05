@@ -1,0 +1,32 @@
+# Data (downloaded separately, do not commit ~830MB)
+data/
+!data/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.conda/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Model artifacts & logs
+*.pkl
+*.joblib
+*.log
+_output/
