@@ -1,0 +1,23 @@
+# Raw data (≈830 MB) and derived panels (≈340 MB) are not committed.
+# Fetch the raw data with: python scripts/download_data.py
+data/
+panel/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary previews generated while checking Office documents
+.dsh-office-*/
+
+# Partial downloads
+*.part

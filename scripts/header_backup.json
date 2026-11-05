@@ -1,0 +1,11 @@
+{
+  "LOA/chargers.csv": "charger_id,longitude,latitude,site,total_duration,total_volume,avg_power",
+  "LOA/info.csv": "city,country,abbreviation,total_chargers,total_siteBSCAN_eps,total_duration,total_volume,avg_power",
+  "MEL/info.csv": "city,country,abbreviation,total_chargers,total_siteBSCAN_eps,total_duration,total_volume,avg_power",
+  "MEL/sites.csv": "site,longitude,latitude,charger_num,total_duration,total_volume,avg_power,perimeter,area",
+  "SPO/chargers.csv": "charger_id,longitude,latitude,site,total_duration,total_volume,avg_power",
+  "SPO/info.csv": "city,country,abbreviation,total_chargers,total_siteBSCAN_eps,total_duration,total_volume,avg_power",
+  "SPO/sites.csv": "site,longitude,latitude,charger_num,total_duration,total_volume,avg_power,perimeter,area",
+  "SZH/chargers.csv": "charger_id,longitude,latitude,site,total_duration,total_volume,avg_power",
+  "SZH/info.csv": "city,country,abbreviation,total_chargers,total_siteBSCAN_eps,total_duration,total_volume,avg_power"
+}

@@ -1,0 +1,3 @@
+city,model,WAPE,MAE,epochs
+LOA,lstm,0.15258247,1.1000437,30
+MEL,lstm,0.30550137,15.481432,30

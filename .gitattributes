@@ -1,0 +1,17 @@
+# Normalise line endings so Windows and Unix contributors see the same diff.
+* text=auto
+
+*.py    text eol=lf
+*.md    text eol=lf
+*.txt   text eol=lf
+*.json  text eol=lf
+*.csv   text eol=lf
+
+# Binary artefacts
+*.png   binary
+*.jpg   binary
+*.docx  binary
+*.xlsx  binary
+*.pdf   binary
+*.rar   binary
+*.gz    binary
