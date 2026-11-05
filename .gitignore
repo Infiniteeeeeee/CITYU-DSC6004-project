@@ -21,3 +21,6 @@ Thumbs.db
 
 # Partial downloads
 *.part
+
+# Local-only course material (kept on disk, not published)
+reference/
